@@ -1,7 +1,7 @@
 ﻿# E.Commerce
 # Project Overview
 The project aims to create a relational database based on the contents of the provided dataset, Sample-Superstore.csv. 
-Dashboard was created: https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard
+[Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard) was also created.
 * The primary objectives include:
 
 Designing an Entity-Relationship Diagram (ERD) to model the database schema.
