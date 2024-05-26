@@ -1,7 +1,7 @@
 ﻿# E.Commerce
 # Project Overview
 The project aims to create a relational database based on the contents of the provided dataset, Sample-Superstore.csv. 
-[Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard) was also created.
+[Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard) was also created.
 * The primary objectives include:
 
 Designing an Entity-Relationship Diagram (ERD) to model the database schema.
@@ -15,13 +15,13 @@ Cluster customers according to their purchasing pattern.
 * Data_Conversion.ipynb
 * EDA.ipynb
 * Clustering.ipynb
-* SuperstoreDB: - VS_GROUP_DataBase.db - VS_GROUP_DataBase.sqbpro - VS_GROUP__1.png
+* SuperstoreDB: - VS_GROUP_DataBase.db - VS_GROUP_DataBase.sqbpro - VS_GROUP__ERD.png
 * SuperstoreTables: - address.csv - orders.csv - products.csv - customers.csv - orders_details.csv
 * Clustered: - clustered_data.csv
 
 
 # Entity-Relationship Diagram (ERD)
-The ERD was created using dbdiagram.io and is visualized in the attached image file: VS_GROUP__1.png.
+The ERD was created using dbdiagram.io and is visualized in the attached image file: VS_GROUP__ERD.png.
 
 # Data Transfer and Preparation
 The process involves transferring data from the initial CSV file to the database and ensuring data integrity and consistency. This includes:
