@@ -1,7 +1,7 @@
 ﻿# E.Commerce
 # Project Overview
 The project aims to create a relational database based on the contents of the provided dataset, Sample-Superstore.csv. 
-[Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard) was also created.
+
 * The primary objectives include:
 
 Designing an Entity-Relationship Diagram (ERD) to model the database schema.
@@ -62,3 +62,4 @@ This notebook focuses on the exploratory data analysis with focus on insights re
 In this notebook the customers get clustered by purchasing patterns using 3 parameters: Monetary (amount of money spent), Frequency (how frequently the customer bought something) and Recency (how many days has passed from today to their last purchase). The results are further exported to clustered_data.csv.
 
 
+For a comprehensive overview, please check out the [project presentation](https://docs.google.com/presentation/d/189jkZp9nHZgpW0Cbg1WBahSjS-CWcn9BALe9Of76EP0/edit#slide=id.g2df3dbcb3fd_1_29) and [Tableau Dashboard](https://public.tableau.com/app/profile/godwin.oti5506/viz/VSGROUPTABLEAU/ProfitSalesDashboard).
